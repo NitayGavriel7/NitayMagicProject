@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d6ef289-081d-4cdc-a88e-96f4f6584ba2" name="Changes" comment="Change Main">
-      <change afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+    <list default="true" id="a61de7a3-2ef4-42a0-9f3f-d5699c43670d" name="Changes" comment="Change Main">
+      <change afterPath="$PROJECT_DIR$/templates/magic_zone.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/recommendations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/tutorials.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,77 +21,29 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="NextEditCompletionFeaturesState">
-    <decayedCancelled>
-      <entry key="MS100" value="1.0000008187918072" />
-      <entry key="MS500" value="1.0617106991334866" />
-      <entry key="S2" value="1.6778228185393305" />
-      <entry key="S5" value="2.260986336462173" />
-      <entry key="S10" value="2.5801641929280343" />
-      <entry key="S30" value="2.8468621016807125" />
-      <entry key="S60" value="2.9216368638672106" />
-      <entry key="M2" value="2.960358170236158" />
-      <entry key="M5" value="2.9840312686324104" />
-      <entry key="M10" value="2.9919968381040416" />
-      <entry key="M15" value="2.9946603721404257" />
-      <entry key="M30" value="2.9973280903520134" />
-      <entry key="H1" value="2.9986635207921157" />
-      <entry key="H2" value="2.9993316292432466" />
-      <entry key="H4" value="2.9996657818263133" />
-      <entry key="D1" value="2.9999442924155444" />
-      <entry key="W1" value="2.999992041662078" />
-    </decayedCancelled>
-    <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
-    </decayedSelected>
-    <decayedShown>
-      <entry key="MS100" value="0.965937051674827" />
-      <entry key="MS500" value="1.0532562084974222" />
-      <entry key="S2" value="1.67075367666991" />
-      <entry key="S5" value="2.2558942575918848" />
-      <entry key="S10" value="2.5769620366907295" />
-      <entry key="S30" value="2.845607703949001" />
-      <entry key="S60" value="2.9209831628424783" />
-      <entry key="M2" value="2.960024435650221" />
-      <entry key="M5" value="2.9838960884341383" />
-      <entry key="M10" value="2.9919289640486015" />
-      <entry key="M15" value="2.994615059452547" />
-      <entry key="M30" value="2.9973054022950723" />
-      <entry key="H1" value="2.998652168825215" />
-      <entry key="H2" value="2.999325951273915" />
-      <entry key="H4" value="2.9996629423450174" />
-      <entry key="D1" value="2.9999438190996717" />
-      <entry key="W1" value="2.999991974043835" />
-    </decayedShown>
-  </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4,
-  "fromUser": false
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "NitayGavriel7"
+  }
 }]]></component>
-  <component name="ProjectId" id="3MVa3aqyB5cO9tx0AaKxxJIJDpp" />
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NitayGavriel7/NitayMagicProject.git",
+    "accountId": "ea227615-10d8-4ad6-8687-74ee65328f85"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MW8SV11jUUNVIXLR9TGmDW8vLn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -95,46 +51,71 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.home.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "to.speed.mode.migration.done": "true"
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-eff1e8def5f5-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10315.174" />
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
       </set>
     </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6d6ef289-081d-4cdc-a88e-96f4f6584ba2" name="Changes" comment="" />
-      <created>1795437990879</created>
+      <changelist id="a61de7a3-2ef4-42a0-9f3f-d5699c43670d" name="Changes" comment="" />
+      <created>1795454962746</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1795437990879</updated>
+      <updated>1795454962746</updated>
     </task>
     <task id="LOCAL‎-00001" summary="Change Main">
       <option name="closed" value="true" />
-      <created>1795438268656</created>
+      <created>1795455376159</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL‎-00001" />
       <option name="project" value="LOCAL‎" />
-      <updated>1795438268657</updated>
+      <updated>1795455376159</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -145,16 +126,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Change Main" />
     <option name="LAST_COMMIT_MESSAGE" value="Change Main" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
